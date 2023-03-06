@@ -4,8 +4,8 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 
 import Payout from '../views/Payout'
 import { NavigationContainer } from '@react-navigation/native'
-import Payin from '../views/src/Payin'
-import Utilidades from '../views/src/Utilidades'
+import Payin from '../views/src/Payin';
+import Utilidades from '../views/src/Utilidades';
 
 
 const Tab = () => {
